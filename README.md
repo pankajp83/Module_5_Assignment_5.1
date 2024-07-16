@@ -1,4 +1,7 @@
 # Module_5_Assignment_5.1
+
+Link : https://github.com/pankajp83/Module_5_Assignment_5.1
+
 **Findings and Decisions**
 
   Dropping rows with missing values significantly reduces the dataset size, which may not be desirable.
@@ -35,5 +38,11 @@ Marital Status and Education: Analyze how marital status and education level imp
 Age Groups: Understand if younger or older passengers are more likely to accept the coupon.
 Occupations: Explore if certain occupations are associated with higher acceptance rates.
 
-Link : https://github.com/pankajp83/Module_5_Assignment_5.1
+------------------------------------
+
+Findings:
+
+People that already go to bar once a month are much more likely to accept a bar coupon. No kids, not divorced and under 30 also increase acceptance rate.
+People with friends or partners headed home or not specific destination, are more likely accept coffee house coupons. Afternoon to evening 2pm to 10pm have the best acceptance rates.
+Hypthosesis: People not alone and not with kids, are more likely to accept because they are looking for entertainment. Targeting when they are headed home or no destination between 2pm and 10pm could increase utilzation (acceptance rate)
 
