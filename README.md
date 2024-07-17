@@ -15,22 +15,32 @@ Based on the observations from the acceptance rates of the specified groups of d
 Drivers who go to bars more than once a month, have passengers that are not kids, and are not widowed are more likely to accept bar coupons.
 Drivers who go to bars more than once a month and are under the age of 30 are also likely to accept bar coupons, but their acceptance rate may differ from the first group.
 Drivers who frequently visit cheap restaurants and have an income of less than 50K have a distinct acceptance rate for bar coupons, which could be higher or lower than the other groups.
-Analysis
-Acceptance Rate by Group:
+
+**Analysis**
+
+**Acceptance Rate by Group:**
+
 Group 1: Drivers who go to bars more than once a month, no kid passengers, not widowed.
+
 Group 2: Drivers who go to bars more than once a month and are under 30.
+
 Group 3: Drivers who visit cheap restaurants more than 4 times a month and have an income less than 50K.
+
 We hypothesize that the social habits and demographics of drivers play a significant role in their likelihood to accept bar coupons. Specifically:
 
 Social Habits: Drivers who visit bars frequently likely enjoy socializing in such settings and are more inclined to accept bar-related promotions.
 Demographics:
+
 Age: Younger drivers may be more inclined to accept bar coupons due to a lifestyle that includes more social outings.
+
 Marital Status: Drivers who are not widowed might be more socially active, which could influence their acceptance of bar coupons.
+
 Income: Those with lower income who frequently visit cheap restaurants might have a different acceptance rate, possibly influenced by cost-saving behaviors.
 
 ----------------------
-Analysis and Insights
-After running the script and generating the plots, you can analyze the results:
+**Analysis and Insights**
+
+**After running the script and generating the plots, we can analyze the results:**
 
 Passenger Type: Identify if certain passenger types (e.g., family, friends) are more likely to accept the coupon.
 Weather Conditions: Determine if weather conditions influence the acceptance rate of carry out & take away coupons.
